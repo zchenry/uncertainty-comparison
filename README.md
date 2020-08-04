@@ -1,4 +1,4 @@
-This repository contains codes and collected user study data for the paper "Classification from Ambiguity Comparisons".
+This repository contains codes and collected user study data for the paper [Classification from Ambiguity Comparisons](http://arxiv.org/abs/2008.00645).
 
 `Python 3.6.2` is used. Dependencies are specified in the `requirements.txt` file.
 
@@ -76,6 +76,6 @@ If you use the proposed method or any of the data in your work, we would appreci
   author       = {Zhenghang Cui and Issei Sato},
   title        = {Classification from Ambiguity Comparisons},
   year         = {2020},
-  eprinttype   = {arXiv},
+  eprinttype   = {arXiv:2008.00645},
 }
 ```
