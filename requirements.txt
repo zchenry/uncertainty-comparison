@@ -1,5 +1,5 @@
 numpy==1.23.2
-scikit-learn==0.22.2.post1
+scikit-learn==0.23.1
 pytorch-transformers==1.1.0
 torch==1.13.1
 torchtext
